@@ -13,13 +13,17 @@ header:
  subtitle: "Nilsson"
 footer:
  name: "Hej! Jag heter Anders!"
- bio: "I am a developer and a tech aficionado from India. Love making teeny tiny apps solving tiny problems in life and now learning photography."
- github: "Want a website like this for yourself for free? Just <a href=\"https://github.com/ramswaroop/photography\">fork me on github</a> ;)"
+ bio: "Jag pluggar till Civilingenjör med inriktning i design i Linköping och har ett nyfunnet intresse för fotografi"
+ github: "Letar ni en fotograf för er verksamhet så släng iväg ett mail eller ett PM på Instagram! Jag är öppen för det mesta!"
 web_design: "AJ"
 social_urls:
+  /
   facebook: "https://www.facebook.com/ramswaroop"
   twitter: "https://www.twitter.com/ram__patra"
-  instagram: "https://www.instagram.com/ram_patra"
+  /
+  instagram: "https://www.instagram.com/andersfotograferar/"
+  linkedin: "www.linkedin.com/in/andersnilsson98"
+  /
   dribbble: "https://dribbble.com/rampatra"
-  linkedin: "https://in.linkedin.com/in/ram-patra"
   github: "https://www.github.com/rampatra"
+  /
